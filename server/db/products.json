@@ -1,0 +1,22 @@
+[
+  {
+    "id_product": 111,
+    "product_name": "Idea 1",
+    "price": 50000
+  },
+  {
+    "id_product": 112,
+    "product_name": "Idea 2",
+    "price": 60000
+  },
+  {
+    "id_product": 113,
+    "product_name": "Idea 3",
+    "price": 70000
+  },
+  {
+    "id_product": 114,
+    "product_name": "Idea 4",
+    "price": 80000
+  }
+]
